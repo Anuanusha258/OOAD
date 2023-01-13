@@ -1,0 +1,25 @@
+#include "editor.h"
+
+// Constructors/Destructors
+//  
+
+editor::editor () {
+initAttributes();
+}
+
+editor::~editor () { }
+
+//  
+// Methods
+//  
+
+
+// Accessor methods
+//  
+
+
+// Other methods
+//  
+
+void editor::initAttributes () {
+}
